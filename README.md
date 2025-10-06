@@ -10,8 +10,8 @@ I'm a low level and quantum computing enthusiast from India. currently just lear
 
 ## 🛠️ Technologies & Tools
 
-![C](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/-C-0335FC?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-1CFC03?style=flat-square&logo=Python&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
